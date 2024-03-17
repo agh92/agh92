@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, I'm Andrés! 👋
 
-<!--
-**agh92/agh92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer @ Assecor GmbH by day and Rock Climber by night
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andres-gil-herrera/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### A little more about me...
+
+```javascript
+const andres = {
+  pronouns: "he" | "him",
+  languages: ["es_ES", "de_DE", "en_US"],
+  code: ["Java", "Javascript", "Typescript", "Python", "Terraform"],
+  tools: ["Spring", "Node", "Express", "Angular", "Docker", "AWS"],
+  architecture: ["microservices", "event-driven"],
+  challenge: "Contribute to open source"
+}
+```
